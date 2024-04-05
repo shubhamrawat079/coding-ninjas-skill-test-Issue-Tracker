@@ -4,10 +4,12 @@ Build the website to create a project and also create the issue of the project
 
 Running Tests
 To run tests, run the following command
+npm start
 
-  npm start
+
 Folder Structure
 assets
+
 css
 footer.css
 header.css
